@@ -5,8 +5,8 @@
 
 ### Compile & Execute 📋
 ```
-javac solution.java
-java solution
+javac Solution.java
+java Solution
 ```
 
 ### 1. Given an array with n integers and a number k, can you determine if there is a pair of 2 elements that sums to k? Create a simple program that will return the indices of the first encounter of the correct 2 numbers. You may manipulate the array if necessary.
